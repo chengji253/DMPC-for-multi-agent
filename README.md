@@ -14,5 +14,6 @@ Transitions via Distributed Model Predictive Control"**.
 ---
 
 ![avatar](gif/4.gif)
-
 ![avatar](gif/8.gif)
+
+This code is just a simple implementation.
